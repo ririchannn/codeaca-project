@@ -1,44 +1,38 @@
-*{
-    font-family:sans-serif;
+* {
+  font-family: sans-serif;
 }
 
-
-h1{
-   font-size: 70px; 
-    color:rgb(225, 225, 133);
-    text-align: center;
-    background-image: url('/Users/ai/Desktop/Project_CodeAcademy/img/pattern_1.jpg');
-    background-size: 300%;
-    
-
-   
+h1 {
+  font-size: 100px;
+  color: khaki;
+  text-align: center;
+  background-image: url("../img/pattern_1.jpg");
+  background-size: 300%;
 }
 
-h2{
-    color:white;
-    
+h2 {
+  color: white;
 }
 
-.brush{
-    background-color: chartreuse;
-    width: 100%;
+.brush {
+  background-color: chartreuse;
+  width: 100%;
 }
 
-.frame{
-    background-color:palevioletred;
-    width: 100%;
-
+.frame {
+  background-color: palevioletred;
+  width: 100%;
 }
 
-.paint{
-    background-color:aqua;
-    width:100%;
+.paint {
+  background-color: aqua;
+  width: 100%;
 }
 
-strong{
-    color:blue;
+strong {
+  color: blue;
 }
 
-.title{
-    font-weight:bold;
+.title {
+  font-weight: bold;
 }
